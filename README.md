@@ -62,7 +62,7 @@ Setup Instructions
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/Advanced_SQL_Forecast_Analysis.git
+git clone https://github.com/Mugeshgithub/Advanced_SQL_Forecast_Analysis.git
 
 2. Create the Database
 
